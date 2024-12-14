@@ -1,4 +1,5 @@
-This is my own project repository for my Walsh IT classes
+# IT-456-Final-Project
+**This project involed building a model that could accuractly predicting wildfires**
 
 Final Project Folder contains the IT 456 Final Project: Predicting Wildfires This dataset relates to the occurrence of wild fires, and has already been preprocessed to remove noise and correct inconsistencies, so you will not need to do that. This data, collected by NASA using remote sensors, contains parameters with high influence on the occurrence of wildfires.
 
